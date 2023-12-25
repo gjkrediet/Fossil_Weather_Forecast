@@ -6,6 +6,7 @@ This app is designed for the Fossil Hybrid HR smartwatch. It will not work on an
 
 Dutch KNMI and (international) open meteo both provide local current weather and forecasts. This watchapp relies on Gadgetbridge for the communication with the watch and a 'companion' phone-app that can send information from the internet to gadgetbridge. I used tasker as the companion app. For more info take a look at https://www.buienradar.nl/overbuienradar/gratis-weerdata.
 
+![forecast](https://github.com/gjkrediet/Fossil_Weather_Forecast/assets/20277013/c42e0898-35a8-470e-b495-672075374d79)
 
 This app shows the current temerature and the weather forecast for today, tomorrow and the day after tomorrow. Upon start of the app the data is requested from Tasker and - when received - shown in the app. The app exits after 30 seconds.
 
